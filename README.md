@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ekemini-Abasi Umofiah. Friends call me Ruby.
 - 👀 I’m interested in tech, movies and everything good
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning front-end development at Mitaschool.com
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me umofiahekemini06@gmail.com
 - 😄 Pronouns: she 👩
